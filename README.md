@@ -131,9 +131,5 @@
 -->
 <h1>ℹ️ Stats</h1>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight&count_private=true" /> &nbsp; </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teknosenpai&theme=tokyonight&count_private=true" />
-  </a>
+  <img alt="" src="https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&" /> &nbsp; </a>
 </p>
