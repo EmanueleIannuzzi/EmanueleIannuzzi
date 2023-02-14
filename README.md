@@ -120,8 +120,11 @@
   <a href="https://instagram.com/tekno017_senpai" target="_blank">
     <img src="https://img.shields.io/badge/@tekno017senpai-Instagram-000000.svg?style=for-the-badge">
   </a>
+  <a href="https://twitter.com/teknosenpai" target="_blank">
+    <img src="https://img.shields.io/badge/@teknosenpai-Twitter-000000.svg?style=for-the-badge">
+  </a>
   <a href="mailto:tekno@hiri.dev" target="_blank">
-    <img src="https://img.shields.io/badge/tekno@hiri.dev-eMail-000000.svg?style=for-the-badge">
+    <img src="https://img.shields.io/badge/tekno@hiri.dev-Email-000000.svg?style=for-the-badge">
   </a>
 </p>
 <!---
