@@ -1,4 +1,5 @@
 <!--suppress ALL -->
+<hr>
 <h1>🎤 Introduction</h1>
 <p align="center">
   <strong>Hello!</strong>
@@ -16,7 +17,8 @@
 <p>Here are some things about me:</p>
 <h2>🔧 Knowledge</h2>
 <!-- SOFTWARE -->
-<h3 align="center">💻 Software Engineering, Web Design, System Administration:</h3>
+<h3 align="center">💻 Software Engineering, Web Design</h3>
+<h5 align="center"><i>Things I know how to work with in code...</i></h5>
 <p align="center">
   <strong>Mastered:</strong>
 </p>
@@ -62,7 +64,8 @@
   <img alt="Go" src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go" />
 </p>
 <!-- NETWORKING AND SERVERS -->
-<h3 align="center">🔨 Servers, Networking:</h3>
+<h3 align="center">🔨 Servers, Networking, System Administration:</h3>
+<h5 align="center"><i>Things like setting up a server, a database, a firewall...</i></h5>
 <p align="center">
   <strong>Mastered:</strong>
 </p>
@@ -79,6 +82,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000.svg?&style=for-the-badge&logo=mongodb" />
   <img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-000000.svg?&style=for-the-badge&logo=windows" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-000000.svg?&style=for-the-badge&logo=docker" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-000000.svg?&style=for-the-badge&logo=redis" />
 </p>
 <p align="center">
   <strong>Currently learning:</strong>
@@ -87,6 +91,7 @@
   <img alt="Cisco" src="https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-000000.svg?&style=for-the-badge&logo=kubernetes" />
   <img alt="MinIO" src="https://img.shields.io/badge/MinIO-000000.svg?&style=for-the-badge&logo=amazon%s3" />
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-000000.svg?&style=for-the-badge&logo=amazon%20s3" />
 </p>
 <h2>📝 Favourite Editors</h2>
 <p align="center">
@@ -118,21 +123,22 @@
 <h2>📱 Socials and Contacts</h2>
 <p align="center">
   <a href="https://instagram.com/tekno017_senpai" target="_blank">
-    <img src="https://img.shields.io/badge/@tekno017senpai-Instagram-000000.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/@tekno017senpai-Instagram-000000.svg?style=for-the-badge">
   </a>
   <a href="https://twitter.com/teknosenpai" target="_blank">
-    <img src="https://img.shields.io/badge/@teknosenpai-Twitter-000000.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/@teknosenpai-Twitter-000000.svg?style=for-the-badge">
   </a>
   <a href="mailto:tekno@hiri.dev" target="_blank">
-    <img src="https://img.shields.io/badge/tekno@hiri.dev-Email-000000.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/tekno@hiri.dev-Email-000000.svg?style=for-the-badge">
   </a>
 </p>
 <!---
-<h1>💻 Hiri Devs</h1><p align="center"><img align="center" src="http://hiri.dev/logo/hiri-banner.png"><h2><strong>Hiri Devs</strong></h2>
-    ...things
-</p>
--->
+  <h1>💻 Hiri Devs</h1><p align="center"><img align="center" src="http://hiri.dev/logo/hiri-banner.png"><h2><strong>Hiri Devs</strong></h2>
+      ...things
+  </p>
+  -->
 <h1>ℹ️ Stats</h1>
 <p align="center">
-  <img alt="" src="https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&" /> &nbsp; </a>
+  <img alt="" src="https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> &nbsp; </a>
 </p>
+<hr>
