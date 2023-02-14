@@ -83,6 +83,7 @@
   <img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-000000.svg?&style=for-the-badge&logo=windows" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-000000.svg?&style=for-the-badge&logo=docker" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-000000.svg?&style=for-the-badge&logo=redis" />
+  <img alt="Powershell" src="https://img.shields.io/badge/Powershell-000000.svg?&style=for-the-badge&logo=powershell" />
 </p>
 <p align="center">
   <strong>Currently learning:</strong>
