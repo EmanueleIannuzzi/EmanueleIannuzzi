@@ -45,6 +45,8 @@
   <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-000000.svg?&style=for-the-badge&logo=daisyUI" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000.svg?&style=for-the-badge&logo=mongodb" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-000000.svg?&style=for-the-badge&logo=redis" />
+  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000.svg?&style=for-the-badge&logo=fastify" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=express" />
 </p>
 <p align="center">
   <strong>Currently learning:</strong>
