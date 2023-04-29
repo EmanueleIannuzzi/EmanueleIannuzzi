@@ -102,6 +102,8 @@
   <img alt="Intellij" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea" />
   <img alt="GoLand" src="https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=goland" />
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio-code" />
 </p>
 <h2>⚙️ Contributions</h2>
 <ol>
