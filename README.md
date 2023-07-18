@@ -117,7 +117,7 @@
 </ol>
 <h6>Working on other projects too...</h6>
 <h2>🌐 Languages I can speak</h2>
-<p> I can speak 4 languages, which are:
+<p> I can speak 5 languages, of which:
 <ol>
   <li> Italian (Native) </li>
   <li> Japanese (JLPT-N4), Decent </li>
