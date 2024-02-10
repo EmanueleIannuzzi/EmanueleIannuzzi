@@ -9,7 +9,7 @@
   <br> 
   I'm a developer, a photographer, and I'm currently studying Computer Science at <a href="https://itiferraris.edu.it">I.T.I. G. Ferraris, Napoli (NA)</a>, Italy
   <br>
-  I've always been into computers, and I've been programming since I was 12 years old.
+  I've always been into computers, and I've programmed since I was 12 years old.
   <br>
   I'm working on a lot of projects, and I try to learn new things everyday.
 </p>
