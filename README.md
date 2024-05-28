@@ -53,10 +53,9 @@
 </p>
 <p align="center">
   <strong>Currently learning:</strong>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000.svg?&style=for-the-badge&logo=kotlin" />
 </p>
 <p align="center">
-  
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000.svg?&style=for-the-badge&logo=kotlin" />
 </p>
 <p align="center">
   <strong>Planning to learn:</strong>
