@@ -47,23 +47,22 @@
   <img alt="Redis" src="https://img.shields.io/badge/Redis-000000.svg?&style=for-the-badge&logo=redis" />
   <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000.svg?&style=for-the-badge&logo=fastify" />
   <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=express" />
+  <img alt="Sentry" src="https://img.shields.io/badge/sentry-000000?style=for-the-badge&logo=sentry">
+  <img alt="React Native" src="https://img.shields.io/badge/react native-000000?style=for-the-badge&logo=react" />
+  <img alt="Rust" src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust" />
 </p>
 <p align="center">
   <strong>Currently learning:</strong>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000.svg?&style=for-the-badge&logo=kotlin" />
 </p>
 <p align="center">
-  <img alt="Dart" src="https://img.shields.io/badge/dart-000000.svg?&style=for-the-badge&logo=dart" />
-  <img alt="Rust" src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust" />
-  <img alt="React Native" src="https://img.shields.io/badge/react native-000000?style=for-the-badge&logo=react" />
-  <img alt="Sentry" src="https://img.shields.io/badge/sentry-000000?style=for-the-badge&logo=sentry">
-  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-000000.svg?&style=for-the-badge&logo=amazon%20s3" />
+  
 </p>
 <p align="center">
   <strong>Planning to learn:</strong>
 </p>
 <p align="center">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go" />
+    <img alt="Dart" src="https://img.shields.io/badge/dart-000000.svg?&style=for-the-badge&logo=dart" />  
 </p>
 <!-- NETWORKING AND SERVERS -->
 <h3 align="center">🔨 Servers, Networking, System Administration:</h3>
