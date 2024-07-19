@@ -1,6 +1,5 @@
 # Hello, I'm Emanuele! 👋
 
----
 <img align="right" width="240" src="images/Murakami_Shiina_Atomic_Kotlin.jpg" alt="Murakami Shiina Atomic Kotlin">
 
 I'm a developer (and an aspiring photographer) from Italy.
@@ -250,5 +249,3 @@ I'm currently working on a lot of projects, but here are some of the most import
 I'm also planning on releasing a multitude of other Open Source projects, but I can't talk about them yet. Stay tuned!
 
 ---
-
-If you want to contact me, you can do so through my email. I'm always available for a little chat.
