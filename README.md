@@ -1,14 +1,20 @@
 # Hello, I'm Emanuele! 👋
 
 ---
-<img align="right" width="300" src="images/Murakami_Shiina_Atomic_Kotlin.jpg" alt="Murakami Shiina Atomic Kotlin">
+<img align="right" width="240" src="images/Murakami_Shiina_Atomic_Kotlin.jpg" alt="Murakami Shiina Atomic Kotlin">
 
 I'm a developer (and an aspiring photographer) from Italy.
 I'm currently studying Computer Science at [I.T.I. G. Ferraris, Napoli (NA)](https://itiferraris.edu.it), Italy. 💜
 
-<img src="https://img.shields.io/badge/Pronouns-He/Him-black?style=for-the-badge&logo=pronounsdotpage&logoColor=white" alt="Pronouns badge">
-<img src="https://img.shields.io/badge/EMail-tekno@hiri.dev-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
-<img src="https://img.shields.io/badge/Discord-the.avogatto-black?style=for-the-badge&logo=discord&logoColor=white" alt="Email badge">
+<p float="left" align="center">
+    <img src="https://img.shields.io/badge/Pronouns-He/Him-black?style=for-the-badge&logo=pronounsdotpage&logoColor=white" alt="Pronouns badge">
+    <img src="https://img.shields.io/badge/EMail-tekno@hiri.dev-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
+    <img src="https://img.shields.io/badge/Discord-the.avogatto-black?style=for-the-badge&logo=discord&logoColor=white" alt="Email badge">
+</p>
+
+<br clear="left">
+<br clear="left">
+<br clear="left">
 
 ## My skills and passions 🚀
 
