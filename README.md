@@ -35,10 +35,8 @@ I've also had a fair share of experience with C# and Rust, and I'm currently lea
 A new passion of mine is malware analysis and reverse engineering, and I'm currently studying it in my free time, and
 hope to be able to create something in that matter in the future.
 
-Following this, you will find an extensive list of the languages, frameworks, tools and technologies I've worked with in
-those, in the form of a Kotlin data class.
-I find this to be a unique way to show off my skills, and it's also a way to show my love for Kotlin, one of
-my favorite languages.
+Following this, you will find an extensive list of the languages, frameworks, tools and technologies I've worked with during the past years in the form of a Kotlin data class.
+I find this to be a unique way to show off my skills, and it's also a way to show my love for Kotlin.
 
 ## My overview 📝
 
