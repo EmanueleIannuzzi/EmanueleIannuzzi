@@ -223,8 +223,7 @@ fun main() {
 ### Other peripherals 🖱️
 
 - **Keyboard**: [Fnatic STREAK65 LP US-Layout](https://amzn.eu/d/01CSjU6v)
-- **Mouse(s)**: [Logitech G PRO X Superlight](https://amzn.eu/d/0faJbCjL) for the desktop **AND
-  ** [Logitech Pebble Mouse 2 M350s](https://amzn.eu/d/0ermqZaH) for the notebook
+- **Mouse(s)**: [Logitech G PRO X Superlight](https://amzn.eu/d/0faJbCjL) for the desktop **AND** [Logitech Pebble Mouse 2 M350s](https://amzn.eu/d/0ermqZaH) for the notebook
 - **Headphones**: [Logitech G PRO X](https://amzn.eu/d/06gAj6u9)
 - **Monitor(s)**: [2 x 32" 2K (2560 x 1440) 166Hz - LG 32GN650](https://amzn.eu/d/0eDv1oxe)
 
