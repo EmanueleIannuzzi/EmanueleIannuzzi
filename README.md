@@ -236,12 +236,6 @@ I'm currently working on a lot of projects, but here are some of the most import
   (Closed source)
     - Technologies used:
         - **Backend**: Java, JDA, MongoDB
-- **[Hosto](https://github.com/HostoCC)**: A simple (yet complete), fast, and secure file hosting and file serve
-  platform that I'm developing with my friends.
-  (Closed source)
-    - Technologies used:
-        - **Frontend**: Angular CLI, TailwindCSS
-        - **Backend**: Ktor (Kotlin on JVM), PostgreSQL
 
 I'm also planning on releasing a multitude of other Open Source projects, but I can't talk about them yet. Stay tuned!
 
