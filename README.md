@@ -241,6 +241,8 @@ I'm also planning on releasing a multitude of other Open Source projects, but I 
 
 ## Certifications and badges 📖
 
-<img height="100" src="images/badges/it-essentials.png" alt="IT Essentials badge">
+<a href="https://www.credly.com/badges/c90838fd-ac9d-4a00-b651-d1f96e6ef8c0/public_url">
+  <img height="100" src="images/badges/it-essentials.png" alt="IT Essentials badge">
+</a>
 
 ---
