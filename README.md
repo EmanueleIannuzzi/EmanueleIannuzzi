@@ -241,6 +241,6 @@ I'm also planning on releasing a multitude of other Open Source projects, but I 
 
 ## Certifications and badges 📖
 
-<img height="150" src="images/badges/it-essentials.png" alt="IT Essentials badge">
+<img height="100" src="images/badges/it-essentials.png" alt="IT Essentials badge">
 
 ---
