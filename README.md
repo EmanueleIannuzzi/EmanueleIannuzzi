@@ -239,4 +239,8 @@ I'm currently working on a lot of projects, but here are some of the most import
 
 I'm also planning on releasing a multitude of other Open Source projects, but I can't talk about them yet. Stay tuned!
 
+## Certifications and badges 📖
+
+<img height="150" src="images/badges/it-essentials.png" alt="IT Essentials badge">
+
 ---
