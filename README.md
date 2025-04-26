@@ -7,7 +7,7 @@ I'm currently studying Computer Science at [I.T.I. G. Ferraris, Napoli (NA)](ht
 
 <p float="left" align="center">
     <img src="https://img.shields.io/badge/Pronouns-He/Him-black?style=for-the-badge&logo=pronounsdotpage&logoColor=white" alt="Pronouns badge">
-    <img src="https://img.shields.io/badge/EMail-tekno@hiri.dev-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
+    <img src="https://img.shields.io/badge/EMail-info@emanueleiannuzzi.me-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
     <img src="https://img.shields.io/badge/Discord-the.avogatto-black?style=for-the-badge&logo=discord&logoColor=white" alt="Email badge">
 </p>
 
@@ -35,153 +35,69 @@ I've also had a fair share of experience with C# and Rust, and I'm currently lea
 A new passion of mine is malware analysis and reverse engineering, and I'm currently studying it in my free time, and
 hope to be able to create something in that matter in the future.
 
-Following this, you will find an extensive list of the languages, frameworks, tools and technologies I've worked with during the past years in the form of a Kotlin data class.
-I find this to be a unique way to show off my skills, and it's also a way to show my love for Kotlin.
-
+Following this, you will find an extensive list of the languages, frameworks, tools and technologies I've worked with during the past years.
 ## My overview 📝
 
-A textual version is available [here](/README.old.md).
-This is Kotlin code that you can run [here](https://pl.kotl.in/ywOy0eZE1), or you can read it!
+<p align="center">
+  <strong>Mostly frontend</strong>   
+  <br/> 
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000.svg?&style=for-the-badge&logo=html5" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000.svg?&style=for-the-badge&logo=css3" />
+  <img alt="Angular CLI" src="https://img.shields.io/badge/Angular%20CLI-000000.svg?&style=for-the-badge&logo=angular" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000.svg?&style=for-the-badge&logo=javascript" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000.svg?&style=for-the-badge&logo=typescript" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-000000.svg?&style=for-the-badge&logo=tailwind%20css" />
+  <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-000000.svg?&style=for-the-badge&logo=daisyUI" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-000000.svg?&style=for-the-badge&logo=sass" />
+</p>
 
-```kt
-enum class Status {
-    MASTERED,
-    LEARNING
-}
+<p align="center">
+  <strong>Backend and others</strong>  
+  <br/>
+  <img alt="Rust" src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000.svg?style=for-the-badge&logo=kotlin" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge&logo=openjdk" />  
+  <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-000000.svg?style=for-the-badge&logo=c-sharp" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus" />
+  <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c" />
+</p>
 
-typealias ListEntry = Pair<String, Status>
+<p align="center">
+  <strong>Database</strong>  
+  <br/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000.svg?&style=for-the-badge&logo=mongodb" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-000000.svg?&style=for-the-badge&logo=redis" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?&style=for-the-badge&logo=mysql" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=postgresql" />
+</p>
 
-data class AboutMe(
-    val fullname: String = "Emanuele Iannuzzi",
-    val nickname: String = "Tekno",
-    val location: String = "Italy",
-    val contacts: List<Pair<String, String>> =
-        listOf(
-            "email" to "tekno@hiri.dev",
-            "github" to "https://github.com/TeknoSenpai",
-            "discord" to "the.avogatto"
-        ),
-    val languages: Map<String, List<ListEntry>> =
-        mapOf(
-            "Frontend" to
-                    listOf(
-                        "HTML5" to Status.MASTERED,
-                        "CSS3" to Status.MASTERED,
-                        "Sass" to Status.MASTERED,
-                        "Less" to Status.MASTERED,
-                        "JavaScript" to Status.MASTERED,
-                        "TypeScript" to Status.MASTERED
-                    ),
-            "Backend" to
-                    listOf(
-                        "Kotlin" to Status.MASTERED,
-                        "Java" to Status.MASTERED,
-                        "C#" to Status.LEARNING,
-                        "Rust" to Status.LEARNING
-                    ),
-            "Database query" to
-                    listOf(
-                        "SQL" to Status.LEARNING,
-                        "MongoDB" to Status.LEARNING
-                    ),
-            "Scripting" to
-                    listOf(
-                        "bash" to Status.LEARNING,
-                        "zsh" to Status.LEARNING,
-                        "python" to Status.MASTERED
-                    )
-        ),
-    val frameworks: Map<String, List<ListEntry>> =
-        mapOf(
-            "Frontend" to
-                    listOf(
-                        "Angular CLI" to Status.LEARNING,
-                        "Vue.js" to Status.LEARNING,
-                        "Nuxt.js" to Status.LEARNING,
-                        "TailwindCSS" to Status.LEARNING
-                    ),
-            "Backend" to listOf("Nest.js" to Status.MASTERED, "Ktor" to Status.MASTERED)
-        ),
-    val technologies: Map<String, List<ListEntry>> =
-        mapOf(
-            "Package Managers" to listOf("npm" to Status.MASTERED, "yarn" to Status.MASTERED),
-            "Error reporting" to listOf("Sentry" to Status.MASTERED),
-            "Container application" to listOf("Docker" to Status.LEARNING),
-            "Databases" to
-                    listOf(
-                        "MySQL" to Status.MASTERED,
-                        "MariaDB" to Status.MASTERED,
-                        "PostgreSQL" to Status.MASTERED,
-                        "MongoDB" to Status.LEARNING,
-                        "Redis" to Status.LEARNING
-                    ),
-            "Server" to
-                    listOf(
-                        "Express" to Status.MASTERED,
-                        "Fastify" to Status.LEARNING,
-                        "Apache 2 (HTTPD)" to Status.MASTERED,
-                        "Nginx" to Status.MASTERED,
-                    ),
-            "Object Storage" to listOf("Amazon S3" to Status.MASTERED, "MinIO" to Status.MASTERED)
-        ),
-    val spokenLanguages: List<ListEntry> =
-        listOf(
-            "Italian" to Status.MASTERED,
-            "English (UK)" to Status.MASTERED,
-            "French" to Status.LEARNING
-        ),
-    val operatingSystems: Map<String, List<String>> =
-        mapOf("desktop" to listOf("Win10", "Manjaro"), "laptop" to listOf("Manjaro", "Win11")),
-    val ides: List<String> =
-        listOf(
-            "WebStorm",
-            "IntelliJ IDEA",
-            "GoLand",
-            "PyCharm",
-            "Visual Studio",
-            "Visual Studio Code"
-        ),
-) {
-    fun rightPad(inStr: String) = inStr + " ".repeat(30 - inStr.length)
+<p align="center">
+  <strong>Libraries and framework</strong>   
+  <br/> 
+  <img alt="Yarn" src="https://img.shields.io/badge/Yarn-000000.svg?style=for-the-badge&logo=yarn" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-000000.svg?style=for-the-badge&logo=docker" />
+  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000.svg?&style=for-the-badge&logo=fastify" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=express" />
+  <img alt="Sentry" src="https://img.shields.io/badge/sentry-000000?style=for-the-badge&logo=sentry">
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-000000.svg?&style=for-the-badge&logo=node.js" />
+  <img alt="NestJS" src="https://img.shields.io/badge/Nest.js-000000.svg?&style=for-the-badge&logo=nestjs" />
+</p>
 
-    fun formatKey(inStr: String): String {
-        val targetWidth = 38
-        val hyphenCount = 3
-        val totalPadding = targetWidth - hyphenCount * 2 - inStr.length
+<p align="center">
+  <strong>Services and tools</strong>   
+  <br/>
+  <img alt="MinIO" src="https://img.shields.io/badge/MinIO-000000.svg?&style=for-the-badge&logo=minio" />
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-000000.svg?&style=for-the-badge&logo=amazon%20s3" />
+</p>
 
-        val paddingLeft = totalPadding / 2
-        val paddingRight = totalPadding - paddingLeft
-
-        return "---" + " ".repeat(paddingLeft) + inStr + " ".repeat(paddingRight) + "---\n"
-    }
-
-    fun getStringFromListEntryMap(v: Map<String, List<ListEntry>>, name: String): String {
-        var ret = "$name:\n"
-        for (i in v) {
-            ret += formatKey(i.key)
-            for (j in i.value) {
-                ret += "${rightPad(j.first)}${j.second}\n"
-            }
-        }
-        return ret + "\n"
-    }
-
-    override fun toString(): String {
-        var ret = "Full name: $fullname; Nickname: $nickname; Location: $location; Contacts: ${
-            contacts.joinToString(", ") { "${it.first}: ${it.second}" }
-        }\n"
-        ret += getStringFromListEntryMap(languages, "Languages")
-        ret += getStringFromListEntryMap(frameworks, "Frameworks")
-        ret += getStringFromListEntryMap(technologies, "Technologies")
-        ret += "Spoken languages:\n${spokenLanguages.joinToString("\n") { "${rightPad(it.first)}${it.second}" }}"
-        return ret
-    }
-}
-
-fun main() {
-    print(AboutMe())
-}
-```
+## 📝 Favourite Editors
+<p align="center">
+  <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm" />
+  <img alt="Intellij" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea" />
+  <img alt="GoLand" src="https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=goland" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm" />
+</p>
 
 ## My gear 🖥️
 
@@ -226,18 +142,6 @@ fun main() {
 - **Mouse(s)**: [Logitech G PRO X Superlight](https://amzn.eu/d/0faJbCjL) for the desktop **AND** [Logitech Pebble Mouse 2 M350s](https://amzn.eu/d/0ermqZaH) for the notebook
 - **Headphones**: [Logitech G PRO X](https://amzn.eu/d/06gAj6u9)
 - **Monitor(s)**: [2 x 32" 2K (2560 x 1440) 166Hz - LG 32GN650](https://amzn.eu/d/0eDv1oxe)
-
-## My projects 🛠️
-
-I'm currently working on a lot of projects, but here are some of the most important ones:
-
-- **[NISD](https://github.com/NISD-Bot)**: It's a multipurpose bot that can do a lot of things, from moderation to fun
-  commands.
-  (Closed source)
-    - Technologies used:
-        - **Backend**: Java, JDA, MongoDB
-
-I'm also planning on releasing a multitude of other Open Source projects, but I can't talk about them yet. Stay tuned!
 
 ## Certifications and badges 📖
 
