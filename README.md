@@ -1,6 +1,6 @@
 # Hello, I'm Emanuele! 👋
 
-<img align="right" width="240" src="images/Murakami_Shiina_Atomic_Kotlin.jpg" alt="Murakami Shiina Atomic Kotlin">
+<img align="right" width="320" src="images/Murakami_Shiina_Atomic_Kotlin.jpg" alt="Murakami Shiina Atomic Kotlin">
 
 I'm a developer (and an aspiring photographer) from Italy.
 I'm currently studying Computer Science at [I.T.I. G. Ferraris, Napoli (NA)](https://itiferraris.edu.it), Italy. 💜
@@ -11,10 +11,10 @@ I'm currently studying Computer Science at [I.T.I. G. Ferraris, Napoli (NA)](ht
     <img src="https://img.shields.io/badge/Discord-the.avogatto-black?style=for-the-badge&logo=discord&logoColor=white" alt="Email badge">
 </p>
 
-<br clear="left">
-<br clear="left">
-<br clear="left">
-
+<p float="left" align="center">
+    <img src="https://lanyard.cnrad.dev/api/836663939609657385" alt="Discord presence">
+</p>
+    
 ## My skills and passions 🚀
 
 Even though I'm still a student, I have a lot of experience in software development, mainly thanks to the fact that I'm
