@@ -148,5 +148,8 @@ Following this, you will find an extensive list of the languages, frameworks, to
 <a href="https://www.credly.com/badges/c90838fd-ac9d-4a00-b651-d1f96e6ef8c0/public_url">
   <img height="100" src="images/badges/it-essentials.png" alt="IT Essentials badge">
 </a>
+<a href="https://www.credly.com/badges/423c6ccf-ae44-4d1d-b176-bc978bb64924/public_url">
+  <img height="100" src="images/badges/ccnav7.png" alt="CCNA v7.0 badge">
+</a>
 
 ---
