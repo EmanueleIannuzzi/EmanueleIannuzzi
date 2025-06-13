@@ -143,14 +143,24 @@ Following this, you will find an extensive list of the languages, frameworks, to
 - **Headphones**: [Logitech G PRO X](https://amzn.eu/d/06gAj6u9)
 - **Monitor(s)**: [2 x 32" 2K (2560 x 1440) 166Hz - LG 32GN650](https://amzn.eu/d/0eDv1oxe)
 
-## Certifications and badges 📖
+## Certifications, badges and experiences 📖
+
+### Cisco
 
 <a href="https://www.credly.com/badges/c90838fd-ac9d-4a00-b651-d1f96e6ef8c0/public_url" title="IT Essentials badge">
-  <img height="100" src="images/badges/it-essentials.png" alt="IT Essentials badge">
+  <img align="right" height="60" src="images/badges/it-essentials.png" alt="IT Essentials badge">
 </a>
 
+#### IT Essentials
+
+- **Obtained on**: October 21, 2024
+
 <a href="https://www.credly.com/badges/423c6ccf-ae44-4d1d-b176-bc978bb64924/public_url" title="CCNA v7.0 badge">
-  <img height="100" src="images/badges/ccna-introduction-to-networks.png" alt="CCNA v7.0 badge">
+  <img align="right" height="60" src="images/badges/ccna-introduction-to-networks.png" alt="CCNA v7.0 badge">
 </a>
+
+#### CCNAv7.0
+
+- **Obtained on**: June 10, 2025
 
 ---
