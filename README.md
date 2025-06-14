@@ -2,12 +2,12 @@
 
 <img align="right" width="320" src="images/Murakami_Shiina_Atomic_Kotlin.jpg" alt="Murakami Shiina Atomic Kotlin">
 
-I'm a developer (and an aspiring photographer) from Italy.
+I'm a developer (and an aspiring Project Manager) from Italy.
 I'm currently studying Computer Science at [I.T.I. G. Ferraris, Napoli (NA)](https://itiferraris.edu.it), Italy. 💜
 
 <p float="left" align="center">
     <img src="https://img.shields.io/badge/Pronouns-He/Him-black?style=for-the-badge&logo=pronounsdotpage&logoColor=white" alt="Pronouns badge">
-    <img src="https://img.shields.io/badge/EMail-info@emanueleiannuzzi.me-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
+    <img src="https://img.shields.io/badge/EMail-hello@emanueleiannuzzi.me-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
     <img src="https://img.shields.io/badge/Discord-the.avogatto-black?style=for-the-badge&logo=discord&logoColor=white" alt="Email badge">
 </p>
 
@@ -163,4 +163,25 @@ Following this, you will find an extensive list of the languages, frameworks, to
 
 - **Obtained on**: June 10, 2025
 
+### Project Management Institute - Southern Italy Chapter
+
+<a href="https://pmi-sic.org" title="PMI-SIC Logo">
+  <img align="right" height="60" src="images/pmi-sic.jpg" alt="PMI-SIC Logo">
+</a>
+
+#### Project Management Skills for Life® (PMS4L)
+
+- **Date**: February 17, 2024
+
+<a href="https://pmi-sic.org" title="PMI-SIC Logo">
+  <img align="right" height="60" src="images/pmi-sic.jpg" alt="PMI-SIC Logo">
+</a>
+
+#### Project Management Olympic Games (PMOGs)
+
+- **Date**: May 19, 2025
+- **Team score**: 4th out of 20 participating teams ([**LinkedIn post**](https://www.linkedin.com/posts/pmi-sic_pmisic-pmogs2025-projectmanagement-activity-7332995364305764353-Ztux/))
+
 ---
+
+###### _"PMI", "Project Management Skills for Life®"_  are marks of Project Management Institute, Inc.
