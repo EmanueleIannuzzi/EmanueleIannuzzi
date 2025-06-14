@@ -165,7 +165,7 @@ Following this, you will find an extensive list of the languages, frameworks, to
 
 ### Project Management Institute
 
-<a href="https://kickoff.pmi.org/predictive.html?lalauprf" title="PMI® Kickoff™ Predictive badge">
+<a href="https://www.credly.com/badges/18484f11-ea7d-48d5-a996-1f58570a6849/public_url" title="PMI® Kickoff™ Predictive badge">
   <img align="right" height="60" src="images/badges/pmi-kickoff-predictive.png" alt="PMI® Kickoff ™ Predictive badge">
 </a>
 
@@ -173,7 +173,7 @@ Following this, you will find an extensive list of the languages, frameworks, to
 
 - **Obtained on**: June 14, 2025
 
-<a href="https://kickoff.pmi.org/agile.html?oxxzdbain" title="PMI® Kickoff™ Agile badge">
+<a href="https://www.credly.com/badges/ba386696-8cde-4c8c-9fd0-8b182f913fce/public_url" title="PMI® Kickoff™ Agile badge">
   <img align="right" height="60" src="images/badges/pmi-kickoff-agile.png" alt="PMI® Kickoff ™ Agile badge">
 </a>
 
