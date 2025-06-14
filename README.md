@@ -163,6 +163,24 @@ Following this, you will find an extensive list of the languages, frameworks, to
 
 - **Obtained on**: June 10, 2025
 
+### Project Management Institute
+
+<a href="https://kickoff.pmi.org/predictive.html?lalauprf" title="PMI® Kickoff™ Predictive badge">
+  <img align="right" height="60" src="images/badges/pmi-kickoff-predictive.png" alt="PMI® Kickoff ™ Predictive badge">
+</a>
+
+#### Kickoff ™ Predictive
+
+- **Obtained on**: June 14, 2025
+
+<a href="https://kickoff.pmi.org/agile.html?oxxzdbain" title="PMI® Kickoff™ Agile badge">
+  <img align="right" height="60" src="images/badges/pmi-kickoff-agile.png" alt="PMI® Kickoff ™ Agile badge">
+</a>
+
+#### Kickoff ™ Agile
+
+- **Obtained on**: June 14, 2025
+
 ### Project Management Institute - Southern Italy Chapter
 
 <a href="https://pmi-sic.org" title="PMI-SIC Logo">
@@ -184,4 +202,4 @@ Following this, you will find an extensive list of the languages, frameworks, to
 
 ---
 
-###### _"PMI", "Project Management Skills for Life®"_  are marks of Project Management Institute, Inc.
+###### _"PMI", "Kickoff ™", "Project Management Skills for Life®"_  are marks of Project Management Institute, Inc.
