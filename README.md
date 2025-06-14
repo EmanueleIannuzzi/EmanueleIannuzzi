@@ -181,6 +181,14 @@ Following this, you will find an extensive list of the languages, frameworks, to
 
 - **Obtained on**: June 14, 2025
 
+<a href="https://www.credly.com/badges/ad22f6f9-9a8d-42c6-a0fc-41e90c506030/public_url" title="PMI® Generative AI Overview for Project Managers">
+  <img align="right" height="60" src="images/badges/pmi-generative-ai-overview-for-project-managers.png" alt="PMI® Generative AI Overview for Project Managers">
+</a>
+
+#### Generative AI Overview for Project Managers
+
+- **Obtained on**: June 14, 2025
+
 ### Project Management Institute - Southern Italy Chapter
 
 <a href="https://pmi-sic.org" title="PMI-SIC Logo">
