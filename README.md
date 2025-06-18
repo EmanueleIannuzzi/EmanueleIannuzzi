@@ -153,7 +153,7 @@ Following this, you will find an extensive list of the languages, frameworks, to
 
 ### Project Management Institute - Southern Italy Chapter
 
-<a href="https://pmi-sic.org" title="PMI-SIC Logo">
+<a href="https://www.pmi-sic.org/project-management-skills-life/" title="PMI-SIC Logo">
   <img align="right" height="60" src="images/pmi-sic.jpg" alt="PMI-SIC Logo">
 </a>
 
@@ -161,7 +161,7 @@ Following this, you will find an extensive list of the languages, frameworks, to
 
 - **Date**: February 17, 2024
 
-<a href="https://pmi-sic.org" title="PMI-SIC Logo">
+<a href="https://www.pmi-sic.org/project-management-olympic-games/" title="PMI-SIC Logo">
   <img align="right" height="60" src="images/pmi-sic.jpg" alt="PMI-SIC Logo">
 </a>
 
