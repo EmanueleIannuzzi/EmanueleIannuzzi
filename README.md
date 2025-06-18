@@ -1,14 +1,14 @@
 # Hello, I'm Emanuele! 👋
 
-<img align="right" width="350" src="images/Murakami_Shiina_Atomic_Kotlin.jpg" alt="Murakami Shiina Atomic Kotlin">
+<img align="right" width="350" src="images/Murakami_Shiina_Atomic_Kotlin.jpg" alt="Murakami Shiina holding the 'Atomic Kotlin' book">
 
 I'm a developer (and aspiring Project Manager) from Italy.
 I'm currently studying Computer Science at [I.T.I. G. Ferraris, Napoli (NA)](https://itiferraris.edu.it), Italy. 💜
 
 <p float="left" align="center">
-    <img src="https://img.shields.io/badge/Pronouns-He/Him-black?style=for-the-badge&logo=pronounsdotpage&logoColor=white" alt="Pronouns badge">
-    <img src="https://img.shields.io/badge/EMail-hello@emanueleiannuzzi.me-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
-    <img src="https://img.shields.io/badge/Discord-the.avogatto-black?style=for-the-badge&logo=discord&logoColor=white" alt="Email badge">
+    <img src="https://img.shields.io/badge/Pronouns-He/Him-black?style=for-the-badge&logo=pronounsdotpage" alt="Pronouns badge">
+    <img src="https://img.shields.io/badge/EMail-hello@emanueleiannuzzi.me-black?style=for-the-badge&logo=gmail" alt="Email badge">
+    <img src="https://img.shields.io/badge/Discord-the.avogatto-black?style=for-the-badge&logo=discord" alt="Email badge">
 </p>
 
 <p float="left" align="center">
@@ -49,8 +49,10 @@ Following this, you will find an extensive list of the languages, frameworks, to
   <strong>Mostly frontend</strong>   
   <br/> 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000.svg?&style=for-the-badge&logo=html5" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000.svg?&style=for-the-badge&logo=css3" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000.svg?&style=for-the-badge&logo=css" />
   <img alt="Angular CLI" src="https://img.shields.io/badge/Angular%20CLI-000000.svg?&style=for-the-badge&logo=angular" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-000000.svg?&style=for-the-badge&logo=vue.js" />
+  <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-000000.svg?&style=for-the-badge&logo=nuxt" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000.svg?&style=for-the-badge&logo=javascript" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000.svg?&style=for-the-badge&logo=typescript" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-000000.svg?&style=for-the-badge&logo=tailwind%20css" />
@@ -80,7 +82,7 @@ Following this, you will find an extensive list of the languages, frameworks, to
 </p>
 
 <p align="center">
-  <strong>Libraries and framework</strong>   
+  <strong>Libraries, frameworks and other tools</strong>   
   <br/> 
   <img alt="Yarn" src="https://img.shields.io/badge/Yarn-000000.svg?style=for-the-badge&logo=yarn" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-000000.svg?style=for-the-badge&logo=docker" />
@@ -89,13 +91,16 @@ Following this, you will find an extensive list of the languages, frameworks, to
   <img alt="Sentry" src="https://img.shields.io/badge/sentry-000000?style=for-the-badge&logo=sentry">
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-000000.svg?&style=for-the-badge&logo=node.js" />
   <img alt="NestJS" src="https://img.shields.io/badge/Nest.js-000000.svg?&style=for-the-badge&logo=nestjs" />
+  <img alt="Ktor" src="https://img.shields.io/badge/Ktor-000000.svg?&style=for-the-badge&logo=ktor" />
+  <img alt="Exposed ORM" src="https://img.shields.io/badge/Exposed%20ORM-000000.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAABb0lEQVQ4ja2Tvy9DURTHP+f2Je9VMAi7TUwGZTL4GdXWYNBEIv4FVoMQs9iNWBoWQl4rIhIGP6IWg91WsZG8Vz/eMah4fe2g4SQ3N/fc7/d7z/3ec+GPIeGFquaA2C+5FyKybkWS04BppIKGwPUiWkGuAdHLGoHdLHPNL+WUQROB4cPA+fihcw0sAC0RgScImZhPep0Y3QPpqYIJJ73L1mpHn3UAtIbPE5GsAXAn1BaDW0MGUEaKK+9LwGK9e1gAIv6MQnfSdYwgGgbkU14AjJ7OldeGtux7wK5sPYY9GAA4SnnTrvreRN4+jAq9Pmk/MAu0VVIl+HZc+fiaZNMIb4KootVNJsSADeC4MpZ+BIwUAV+QqaTrFI5S/lghXZ4MC8QcuQW6oh4YgOcme1uV9Dc5QPc1COIh3M3wjt1O7VNW/4V8xhskwAXC5DsrRmbsIP4QJUOkkZ7jzlXziz8vkEAwAmftJSeXKMpbPfK/xCeie2+CtpnVlwAAAABJRU5ErkJggg==" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-000000.svg?&style=for-the-badge&logo=rabbitmq" />
 </p>
 
 <p align="center">
-  <strong>Services and tools</strong>   
+  <strong>Object store systems</strong>   
   <br/>
   <img alt="MinIO" src="https://img.shields.io/badge/MinIO-000000.svg?&style=for-the-badge&logo=minio" />
-  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-000000.svg?&style=for-the-badge&logo=amazon%20s3" />
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-000000.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABKElEQVQ4T2NkoBAwUqifAa8BPcYqFaEKipJya3YVMDIy/sdmGU4Deg2VbwJ1qIUoKjAANX+VX7uHh6ABfcbKxcHyiuFMTAwdq+896Pz3/78KzIDV9x8EM/xnqAhVkr8ov3ZvAcwwFBf0Gik/DFZQkANJHn3xiuHoq/dgP9pJCDM8/voFrCdESeGHwtq9nAQN+Pn7L8PHP78Zbn38yPDh1y+GH3//kmbAjidPGb78/s0A8sKf//8ZNjx4CDFAGeiCNUS4AKcBRHsB6GSQ0+98+sTw4ecvhu+keuEeEzODuqcfAzsbO8PDvTsZ9l88TzgM+oyUc4IVFcKYGJg6Vt2/P/E/UjSuffTAG5guKkLk5S/Jr9lbjjUWkBMKWQkJPaVRlJSJzWQU50YAxmSeEU03dKcAAAAASUVORK5CYII=" />
 </p>
 
 <p align="center">
@@ -192,7 +197,7 @@ Following this, you will find an extensive list of the languages, frameworks, to
 - **GPU**: [XFX SWIFT 210 - RADEON RX 6600 XT](https://a.co/d/04lwzsG)
 - **RAM**: [16GB DDR4 3200MHz](https://amzn.eu/d/0aAHP1hz)
 - **Storage**: [2 x 500 NVMe SSD](https://amzn.eu/d/0cssELas) + 3 x 1TB SATA HDD (Recovered from dismissed servers)
-- **OS**: Windows 10 Pro + [Manjaro Linux](https://manjaro.org/) (KDE Plasma)
+- **OS**: Windows 10 Pro + [Arch Linux](https://archlinux.org/) (KDE Plasma)
 - **Case**: [Nfortec Lynx Gaming Tower](https://amzn.eu/d/0bjeoUCO) (In the picture on the right!)
 
 ### Notebook 💻
@@ -205,7 +210,7 @@ Following this, you will find an extensive list of the languages, frameworks, to
 - **GPU**: NVIDIA GeForce RTX 4060 + Intel Iris XE Graphics (NVIDIA Optimus)
 - **RAM**: 32GB DDR5 4800MHz
 - **Storage**: 2 x 1TB NVMe SSD + 1 x 1TB SATA HDD
-- **OS**: [Manjaro Linux](https://manjaro.org/) (KDE Plasma) + Windows 11 Pro
+- **OS**: [Arch Linux](https://archlinux.org/) (KDE Plasma) + Windows 11 Pro
 
 ### Camera 📷
 
