@@ -2,13 +2,12 @@
 
 <img align="right" width="350" src="images/Murakami_Shiina_Atomic_Kotlin.jpg" alt="Murakami Shiina holding the 'Atomic Kotlin' book">
 
-I'm a developer (and aspiring Project Manager) from Italy.
+I'm a developer and malware analyst from Italy.
 I'm currently studying Computer Science at [I.T.I. G. Ferraris, Napoli (NA)](https://itiferraris.edu.it), Italy. 💜
 
 <p float="left" align="center">
     <img src="https://img.shields.io/badge/Pronouns-He/Him-black?style=for-the-badge&logo=pronounsdotpage" alt="Pronouns badge">
     <img src="https://img.shields.io/badge/EMail-hello@emanueleiannuzzi.me-black?style=for-the-badge&logo=gmail" alt="Email badge">
-    <img src="https://img.shields.io/badge/Discord-the.avogatto-black?style=for-the-badge&logo=discord" alt="Email badge">
 </p>
 
 <p float="left" align="center">
@@ -17,33 +16,21 @@ I'm currently studying Computer Science at [I.T.I. G. Ferraris, Napoli (NA)](ht
 
 ## Table of contents
 
-- [My skills and passions 🚀](#my-skills-and-passions-)
-- [My overview 📝](#my-overview-)
-- [Certifications, badges and experiences 📖](#certifications-badges-and-experiences-)
-- [My gear 🖥️](#my-gear-%EF%B8%8F)
+- [About me](#about-me)
+- [Skills overview](#skills-overview)
+- [Certifications, badges and experiences](#certifications-badges-and-experiences)
+- [My gear](#my-gear)
     
-## My skills and passions 🚀
+## About me
 
-Even though I'm still a student, I have a lot of experience in software development, mainly thanks to the fact that I'm
-an inquisitive person, and I'm very passionate about what I do.
-Plus, I’m a rapid learner, and I'm always looking for new things to learn and new challenges.
-My experience ranges from frontend development to backend development, and I've also worked with databases, container
-applications, and I know how to deal with Linux and Windows servers management and configuration.
+I’m a software developer and computer science student with experience across frontend and backend development, databases, containerized applications, and Linux/Windows server management.
 
-My very first approach to CS was when I was 9, and I started learning JavaScript and, since then, I've matured a lot of
-experience with contributions to little private projects and big public ones.
-I moved from JavaScript to TypeScript (which was my main language for a very long time),
-then I started learning Java, which opened me the doors to the JVM-compatible languages world.
-After that, I started learning Kotlin, which is now my favorite language, and the one I've worked with most (well...
-_excluding JS and TS of course_).
+I started programming at the age of 9 and have since worked on a wide range of projects, from small private initiatives to large public ones. My primary languages are JavaScript/TypeScript and Kotlin (my current favorite), with additional experience in C, C++, and Assembly for malware analysis and low-level work.
 
-I've also had a fair share of experience with C# and Rust, and I'm currently learning how to use them properly.
+I’m currently diving deeper into malware analysis and reverse engineering, and I enjoy learning new technologies and tackling challenging problems.
 
-A new passion of mine is malware analysis and reverse engineering, and I'm currently studying it in my free time, and
-hope to be able to create something in that matter in the future.
-
-Following this, you will find an extensive list of the languages, frameworks, tools and technologies I've worked with during the past years.
-## My overview 📝
+Below is a list of the languages, frameworks, tools, and technologies I’ve worked with over the years.
+## Skills overview
 
 <p align="center">
   <strong>Mostly frontend</strong>   
@@ -67,7 +54,7 @@ Following this, you will find an extensive list of the languages, frameworks, to
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000.svg?style=for-the-badge&logo=kotlin" />
   <img alt="Java" src="https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge&logo=openjdk" />  
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-000000.svg?style=for-the-badge&logo=c-sharp" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-000000.svg?style=for-the-badge&logo=csharp" />
   <img alt="C++" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus" />
   <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c" />
 </p>
@@ -110,7 +97,7 @@ Following this, you will find an extensive list of the languages, frameworks, to
   <img alt="ProxmoxVE" src="https://img.shields.io/badge/ProxmoxVE-000000.svg?&style=for-the-badge&logo=proxmox" />
 </p>
 
-## Certifications, badges and experiences 📖
+## Certifications, badges and experiences
 
 ### Cisco
 
@@ -179,7 +166,7 @@ Following this, you will find an extensive list of the languages, frameworks, to
 
 ###### _"PMI", "Kickoff ™", "Project Management Skills for Life®"_  are marks of Project Management Institute, Inc.
 
-## The IDEs I use 📝
+## The IDEs I use
 <p align="center">
   <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm" />
   <img alt="Intellij" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea" />
@@ -187,7 +174,7 @@ Following this, you will find an extensive list of the languages, frameworks, to
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm" />
 </p>
 
-## My gear 🖥️
+## My gear
 
 ### Desktop 🖥
 
@@ -200,7 +187,7 @@ Following this, you will find an extensive list of the languages, frameworks, to
 - **OS**: Windows 10 Pro + [Arch Linux](https://archlinux.org/) (KDE Plasma)
 - **Case**: [Nfortec Lynx Gaming Tower](https://amzn.eu/d/0bjeoUCO) (In the picture on the right!)
 
-### Notebook 💻
+### Laptop 💻
 
 <img align="right" height="150" src="images/notebook.png" alt="Acer Nitro 5 AN515-58">
 
@@ -211,18 +198,6 @@ Following this, you will find an extensive list of the languages, frameworks, to
 - **RAM**: 32GB DDR5 4800MHz
 - **Storage**: 2 x 1TB NVMe SSD + 1 x 1TB SATA HDD
 - **OS**: [Arch Linux](https://archlinux.org/) (KDE Plasma) + Windows 11 Pro
-
-### Camera 📷
-
-<img align="right" height="150" src="images/camera.png" alt="Nikon D800">
-
-**Model**: [Nikon D800](https://en.wikipedia.org/wiki/Nikon_D800)
-
-- **Lens**: [Nikon NIKKOR AF-S 24-70mm f/2.8G ED](https://amzn.eu/d/06bgCW6t)
-- **Storage**: [SanDisk 64GB Extreme PRO SDXC](https://amzn.eu/d/0aVbIknj)
-- **Tripod**: [Manfrotto 055XPROB](https://amzn.eu/d/0iG5Zxu2)
-- **Bag**: [Lowepro ProTactic 450 AW II](https://amzn.eu/d/01wSD2wE)
-- **Flash**: [Nikon SB-700](https://amzn.eu/d/0amrT8Tq)
 
 ### Other peripherals 🖱️
 
