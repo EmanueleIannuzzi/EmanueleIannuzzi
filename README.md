@@ -10,9 +10,7 @@ I'm currently studying Computer Science at [I.T.I. G. Ferraris, Napoli (NA)](ht
     <img src="https://img.shields.io/badge/EMail-hello@emanueleiannuzzi.me-black?style=for-the-badge&logo=gmail" alt="Email badge">
 </p>
 
-<p float="left" align="center">
-    <img src="https://lanyard.cnrad.dev/api/836663939609657385" alt="Discord presence">
-</p>
+##### *Currently reading: [Eichmann in Jerusalem](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem) - A report on the banality of evil. (1963 - Hannah Arendt, Joachim Fest)*
 
 ## Table of contents
 
