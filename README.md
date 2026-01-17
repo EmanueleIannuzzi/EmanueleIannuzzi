@@ -1,6 +1,6 @@
 # Hello, I'm Emanuele! 👋
 
-<img align="right" width="350" src="images/Murakami_Shiina_Atomic_Kotlin.jpg" alt="Murakami Shiina holding the 'Atomic Kotlin' book">
+<img align="right" width="256" src="images/Murakami_Shiina_Atomic_Kotlin.jpg" alt="Murakami Shiina holding the 'Atomic Kotlin' book">
 
 I'm a developer and malware analyst from Italy.
 I'm currently studying Computer Science at [I.T.I. G. Ferraris, Napoli (NA)](https://itiferraris.edu.it), Italy. 💜
@@ -11,6 +11,9 @@ I'm currently studying Computer Science at [I.T.I. G. Ferraris, Napoli (NA)](ht
 </p>
 
 ##### *Currently reading: [Eichmann in Jerusalem](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem) - A report on the banality of evil. (1963 - Hannah Arendt, Joachim Fest)*
+
+<br/>
+<br/>
 
 ## Table of contents
 
