@@ -3,7 +3,7 @@
 <img align="right" width="256" src="images/Murakami_Shiina_Atomic_Kotlin.jpg" alt="Murakami Shiina holding the 'Atomic Kotlin' book">
 
 I'm a developer and malware analyst from Italy.
-I'm currently studying Computer Science.
+I'm currently studying Computer Science and Cybersecurity.
 
 <p float="left" align="center">
     <img src="https://img.shields.io/badge/Pronouns-He/Him-black?style=for-the-badge&logo=pronounsdotpage" alt="Pronouns badge">
